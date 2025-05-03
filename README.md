@@ -17,7 +17,7 @@
 <!-- Add more badges as per your skills -->
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhame&layout=compact&theme=blueberry)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrhame&theme=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanz55&layout=compact&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanz55&theme=blue)
 
 
