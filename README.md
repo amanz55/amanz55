@@ -4,7 +4,7 @@
 ## 🛠️ Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=react)](https://svelte.dev/)
+[![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
