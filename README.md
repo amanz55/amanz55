@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanuel Alemayehu</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver | DSA Expert </h3>
+<h3 align="center">💻 Software Engineer | Full-Stack Developer | Problem Solver | DSA Expert </h3>
 
 ## 🛠️ Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
